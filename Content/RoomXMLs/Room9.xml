@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+		<!--  Background  -->
+		<Item>
+			<ObjectType>Background</ObjectType>
+			<ObjectName>Background9</ObjectName>
+			<Location>0 0</Location>
+		</Item>
+
+		<!--Door Transition Blocks-->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>OpenDoorBlockRight</ObjectName>
+			<Location>700 200</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>OpenDoorBlockTop</ObjectName>
+			<Location>350 15</Location>
+		</Item>
+		
+		<!--  Enemies  -->
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>OldMan</ObjectName>
+			<Location>360 140</Location>
+		</Item>
+
+		<!--  Items  -->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>Fire</ObjectName>
+			<Location>200 140</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>Fire</ObjectName>
+			<Location>520 140</Location>
+		</Item>
+
+		<!--  Bounding  -->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>VerticalBoundingBlock</ObjectName>
+			<Location>50 44</Location>
+		</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+		<Location>50 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalBoundingBlock</ObjectName>
+		<Location>50 392</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+		<Location>435 44</Location>
+	</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>VerticalHalfBoundingBlock</ObjectName>
+			<Location>700 44</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>VerticalHalfBoundingBlock</ObjectName>
+			<Location>700 264</Location>
+		</Item>
+
+</XnaContent>

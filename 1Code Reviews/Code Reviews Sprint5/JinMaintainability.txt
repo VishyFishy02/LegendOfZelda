@@ -1,0 +1,17 @@
+﻿@Author Brittaney Jin
+Date: 12/7/2022
+Sprint5
+File under review: PauseState.cs
+Author of file under review: Lisha Nawani
+10 Minutes to complete review
+
+*Reviewing for Maintainability*
+
+
+This class is extremely maintainable, however, there are still things I would
+change. This class is maintainable because it is based on a state-machine
+which is highly documented and understandable. There are different commands
+that send you to different states given the current Pause state. However, there are
+a few things wrong with the logic. For example, the WinGame() method should be empty
+as you should not be able win the game immediately out of a pause state. WinGame should
+only be able to be accessed during the GamePlay() state. 

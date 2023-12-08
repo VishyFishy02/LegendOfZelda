@@ -1,0 +1,12 @@
+@Author DJ Young
+Date: 12/7/2022
+Sprint5
+File under review: MasterSwordExplosionSprite
+Author of file under review: Lisha
+Review completed in 20 minutes. 
+
+*Reviewing for maintainability*
+
+The class is 170 lines as of the time of review. There are many fields, but they are well named. If functionality was to be added, it would not be hard to add more sprites 
+to the List<List<Rectangle>> sourceRectanglesLists. The math for updating positions is very simple, but could easily be modified to alter the behavior of the sprites shooting
+out from impact of the master sword projectile. 

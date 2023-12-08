@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>27</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>32</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>51</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>56</Location>
+	</Item>
+
+</XnaContent>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+		<!--  Background  -->
+		<Item>
+			<ObjectType>Background</ObjectType>
+			<ObjectName>Background22</ObjectName>
+			<Location>0 0</Location>
+		</Item>
+
+		<!--  Blocks  -->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>OpenDoorBlockTop</ObjectName>
+			<Location>350 -40</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>OpenDoorBlockBottom</ObjectName>
+			<Location>350 475</Location>
+		</Item>
+		<!--  Items  -->
+		<Item>
+			<ObjectType>Item</ObjectType>
+			<ObjectName>MasterSword</ObjectName>
+			<Location>390 20</Location>
+		</Item>
+
+	<!--  Bounding  -->
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>VerticalBoundingBlock</ObjectName>
+		<Location>50 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>VerticalBoundingBlock</ObjectName>
+		<Location>700 44</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>VerticalBoundingBlock</ObjectName>
+		<Location>300 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>VerticalBoundingBlock</ObjectName>
+		<Location>460 44</Location>
+	</Item>
+	
+	
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+		<Location>50 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+		<Location>435 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+		<Location>50 392</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+		<Location>435 392</Location>
+	</Item>
+
+
+	
+</XnaContent>

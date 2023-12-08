@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+		<!--  Background  -->
+		<Item>
+			<ObjectType>Background</ObjectType>
+			<ObjectName>Background18</ObjectName>
+			<Location>0 0</Location>
+		</Item>
+
+		<!--  Blocks  -->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>DepthBlock</ObjectName>
+			<Location>350 132</Location>
+		</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>DepthBlock</ObjectName>
+		<Location>400 132</Location>
+	</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>DepthBlock</ObjectName>
+			<Location>550 220</Location>
+		</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalBoundingBlock</ObjectName>
+		<Location>50 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalBoundingBlock</ObjectName>
+		<Location>50 392</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>VerticalBoundingBlock</ObjectName>
+		<Location>50 88</Location>
+	</Item>
+
+		<!--  Enemies  -->
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Keese</ObjectName>
+			<Location>150 150</Location>
+		</Item>
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Stalfos</ObjectName>
+			<Location>280 130</Location>
+		</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Gohma</ObjectName>
+		<Location>280 130</Location>
+	</Item>
+		<!--<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Goriya</ObjectName>
+			<Location>200 300</Location>
+		</Item>-->
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Gel</ObjectName>
+			<Location>0 200</Location>
+		</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Gel</ObjectName>
+		<Location>50 200</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Gel</ObjectName>
+		<Location>100 200</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Gel</ObjectName>
+		<Location>150 200</Location>
+	</Item>
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Dodongo</ObjectName>
+			<Location>350 100</Location>
+		</Item>
+
+	
+	
+
+	<!--  Items  -->
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>300 300</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Fairy</ObjectName>
+		<Location>300 150</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeGemstone</ObjectName>
+		<Location>320 170</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>OrangeMap</ObjectName>
+		<Location>340 200</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>SmallRedHeart</ObjectName>
+		<Location>360 210</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>SmallBlueHeart</ObjectName>
+		<Location>380 230</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>BigHeart</ObjectName>
+		<Location>410 250</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Compass</ObjectName>
+		<Location>420 270</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Bomb</ObjectName>
+		<Location>500 200</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Bomb</ObjectName>
+		<Location>550 250</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Bomb</ObjectName>
+		<Location>550 270</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Bomb</ObjectName>
+		<Location>550 290</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Boomerang</ObjectName>
+		<Location>600 300</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Bow</ObjectName>
+		<Location>650 350</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Key</ObjectName>
+		<Location>630 350</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Key</ObjectName>
+		<Location>610 350</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Key</ObjectName>
+		<Location>590 350</Location>
+	</Item>
+	<Item>
+		<ObjectType>Item</ObjectType>
+		<ObjectName>Clock</ObjectName>
+		<Location>200 250</Location>
+	</Item>
+
+	
+	
+</XnaContent>

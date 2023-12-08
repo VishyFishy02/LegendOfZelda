@@ -1,0 +1,9 @@
+﻿Author of the code review: Lisha Nawani
+Date of the code review: 12/7/22
+Sprint number: 5
+Name of the .cs file being reviewed: RushRoomLoader.cs
+Author of the .cs file being reviewed: Brittaney Jin
+Number of minutes taken to complete the review: 4 minutes
+Specific comments on what is readable and what is not: 
+	- the ParseXML function is almost identical to the one used to load the initial dungeon rooms so that makes it easy to read and understand
+	- using the dictionary of locations also makes the code much more readable as there are no magic numbers in this class

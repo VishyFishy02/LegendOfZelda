@@ -1,0 +1,12 @@
+@Author Vishal Kumar
+Date: 12/7/2022
+Sprint5
+File under review: RushDungeonGenerator.cs
+Author of file under review: Brittaney Jin
+10 Minutes to complete review
+
+*Reviewing for maintainability*
+
+This class is moderate in size and high in cohesion as its only contains one purpose which is to generate random room XML's. It only contains one behavioral method called
+newGraph() which generates the rooms into a graph.Future funcitonality would be easy to implement as for this class we can modify its instance variables. A future change could be randomly choosing
+door positions rather than haveing them be pre set and that would be easy to do.

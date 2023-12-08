@@ -1,0 +1,12 @@
+Author of the code review: Tuhin Patel
+Date of the code review: 11/14/22
+Sprint number: 5
+Name of the .cs file being reviewed: Dodongo.cs
+Author of the .cs file being reviewed: Lisha Nawani
+Specific comments on code quality: 
+	This class has a high size, but each function does well at sticking to one function. Adding in new behaviors
+would be simple, as it would simply involve updating the enum of Dodongo actions and adding a few new cases. The 
+only main critique is perhaps finding a way to extract some functions into a helper class to allow the length to be lower.
+
+
+

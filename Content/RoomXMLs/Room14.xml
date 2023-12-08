@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+
+		<!--  Background  -->
+		<Item>
+			<ObjectType>Background</ObjectType>
+			<ObjectName>Background14</ObjectName>
+			<Location>0 0</Location>
+		</Item>
+		<!--Door Transition Blocks-->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>OpenDoorBlockBottom</ObjectName>
+			<Location>350 400</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>OpenDoorBlockTop</ObjectName>
+			<Location>350 15</Location>
+		</Item>
+		<!-- Locked Door-->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>LockedDoorBlockTop</ObjectName>
+			<Location>352 22</Location>
+		</Item>
+		
+		<!--  Blocks  -->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>100 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>100 132</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>100 174</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>100 260</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>100 304</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>100 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>150 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>150 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>200 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>200 174</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>200 216</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>200 260</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>200 304</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>200 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>250 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>250 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>300 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>298 132</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>300 174</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>300 216</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>300 260</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>300 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>350 260</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>400 174</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>450 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>450 174</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>450 216</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>450 260</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>450 304</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>450 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>500 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>500 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>550 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>550 132</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>550 175</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>550 216</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>550 260</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>550 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>600 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>600 348</Location>
+		</Item>
+
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>650 88</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>650 132</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>650 174</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>650 260</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>650 304</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>PlainDarkBlueBlock</ObjectName>
+			<Location>650 348</Location>
+		</Item>
+		
+		<!--  Enemies  -->
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Stalfos</ObjectName>
+			<Location>140 140</Location>
+		</Item>
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Stalfos</ObjectName>
+			<Location>350 320</Location>
+		</Item>
+		<Item>
+			<ObjectType>Enemy</ObjectType>
+			<ObjectName>Stalfos</ObjectName>
+			<Location>520 180</Location>
+		</Item>
+	
+		<!-- Items-->
+		<Item>
+			<ObjectType>Item</ObjectType>
+			<ObjectName>Key</ObjectName>
+			<Location>670 220</Location>
+		</Item>
+
+		<!--  Bounding  -->
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>VerticalBoundingBlock</ObjectName>
+			<Location>50 44</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>VerticalBoundingBlock</ObjectName>
+			<Location>700 44</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+			<Location>50 44</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+			<Location>435 44</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+			<Location>50 392</Location>
+		</Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+			<Location>435 392</Location>
+		</Item>
+</XnaContent>

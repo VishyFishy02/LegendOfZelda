@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+
+
+	
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>15</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>20</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>62</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>51</Location>
+	</Item>
+
+	<Item>
+		<Item>
+			<ObjectType>Block</ObjectType>
+			<ObjectName>WhiteDepthBlock</ObjectName>
+			<Location>40</Location>
+		</Item>
+
+
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>41</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>42</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>43</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>56</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>69</Location>
+	</Item>
+
+
+
+
+
+</XnaContent>

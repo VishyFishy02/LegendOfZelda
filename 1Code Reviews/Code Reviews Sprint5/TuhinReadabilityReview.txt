@@ -1,0 +1,11 @@
+Author of the code review: Tuhin Patel
+Date of the code review: 12/7/22
+Sprint number: 5
+Name of the .cs file being reviewed: MasterSword.cs
+Author of the .cs file being reviewed: Vishal Kumar
+Number of minutes taken to complete the review: 3
+Specific comments on what is readable and what is not: 
+	This is a standard item sprite class. Everything has a very clear name, and functions are short and
+	concise. The only main thing to change would be some magic numbers.
+
+	

@@ -1,0 +1,13 @@
+@Author DJ Young
+Date: 12/7/2022
+Sprint5
+File under review: GohmaSprite.cs
+Author of file under review: Lisha
+15 Minutes to complete review
+
+*Reviewing for readeability*
+
+The file is 336 lines long at the time of review, which makes it hard to scroll through. This is because there are actually two classes in the file, GohmaSprite and GohmaOrb.
+The fields are well named, and it's easy to guess their functionality. The Update() function is not very readable because it has if statements that are three levels deep, 
+and many if else statements. There is also three level deep if else logic in the Draw() function. The other functions, TurnAround(), TakeDamage, DropItem() and PoofIn() are 
+easy to read. The GohmaOrb class is much shorter < 100 lines. It's few functions are relatively easy to read compared to GohmaSprite. 

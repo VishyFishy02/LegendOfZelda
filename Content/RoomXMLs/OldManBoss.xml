@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<!--  Background  -->
+	<Item>
+		<ObjectType>Background</ObjectType>
+		<ObjectName>Background21</ObjectName>
+		<Location>0 0</Location>
+	</Item>
+
+	<!--  Blocks width 50 height 44 -->
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>OpenDoorBlockTop</ObjectName>
+		<Location>350 15</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>OpenWhiteDoorBlockTop</ObjectName>
+		<Location>350 22</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>100 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>150 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>200 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>250 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>300 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>450 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>500 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>550 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>600 88</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>650 88</Location>
+	</Item>
+	
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>200 132</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>150 132</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>100 132</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>250 132</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>500 132</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>550 132</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>600 132</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>650 132</Location>
+	</Item>
+	
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>100 176</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>150 176</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>600 176</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>650 176</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>200 308</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>550 308</Location>
+	</Item>
+	
+
+
+	<!--  Enemies  -->
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Trap</ObjectName>
+		<Location>105 356</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>Trap</ObjectName>
+		<Location>664 356</Location>
+	</Item>
+	<Item>
+		<ObjectType>Enemy</ObjectType>
+		<ObjectName>OldManBoss</ObjectName>
+		<Location>350 135</Location>
+	</Item>
+
+	<!--  Bounding  -->
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>VerticalBoundingBlock</ObjectName>
+		<Location>50 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>VerticalBoundingBlock</ObjectName>
+		<Location>700 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalHalfBoundingBlock</ObjectName>
+		<Location>50 44</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>HorizontalBoundingBlock</ObjectName>
+		<Location>50 392</Location>
+	</Item>
+
+</XnaContent>

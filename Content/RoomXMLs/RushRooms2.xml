@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>64</Location>
+	</Item>
+
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>63</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>62</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>61</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>49</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>37</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>25</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>13</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>14</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>15</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>16</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>17</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>18</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>19</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>20</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>21</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>22</Location>
+	</Item>
+
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>34</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>46</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>58</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>70</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>69</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>68</Location>
+	</Item>
+	<Item>
+		<ObjectType>Block</ObjectType>
+		<ObjectName>WhiteDepthBlock</ObjectName>
+		<Location>67</Location>
+	</Item>
+
+</XnaContent>

@@ -1,0 +1,25 @@
+﻿@Author Brittaney Jin
+Date: 12/7/2022
+Sprint5
+File under review: Link.cs
+Author of file under review: Everyone
+10 Minutes to complete review
+
+*Reviewing for readability*
+
+This class is very unreadable. Some things I would change include:
+
+-getGame() has no documentation on what it is supposed to accomplish. It looks
+like it may be a method that loads sounds but its name is very misleading.The name 
+may be changed to something that describes it more. 
+
+-The fact that there are two TakeDamage functions with different parameters is
+very unreadable. It is very unclear what these two functions are supposed to do.
+These functions should be described or named something different as they clearly
+seem to do different things or are used it different scenarios.
+
+-Update() has many nested loops that make it very hard to understand what it
+is trying to accomplish. 
+
+-There are still many stray comments. unecessary lines of code should be deleted. 
+

@@ -1,0 +1,71 @@
+
+Sprint5 Reflection
+Author: DJ Young
+
+The Sprint 5 burndown chart is the best that we've seen yet, with all work being correctly assigned at the beginning of 
+the sprint. The amount of work did not decrease during thanksgiving break, but began decreasing soon after. We also benefitted 
+from the extra time alloted for the sprint, which made it so that our work remaining didn't plunge as much towards the
+end of the sprint.
+
+We confirmed the work that we would complete for the sprint after break, but had no issues delegating the tasks because
+every person came up with the work that they would complete during the sprint. These tasks were clearly designated in 
+AzureDevOps.
+
+Because the team has been working with the MonoGame framework for a semester, we've become much more efficient at
+implementing new features. This was more readily apparent towards the end of the sprint as we were able to fix many 
+bugs while simultaneously implementing many miscellaneous features. Alongside creating 4 bosses, we created a boss rush
+feature with randomly generated rooms that provides a new challenge for players. 
+
+Ironically, we began to move back towards working on main, as the team generally struggled to merge branches that had
+finished new features, but that were very out of date compared to the master branch. Luckily, we did not encounter too
+many merge conflicts when pushing to the master branch. 
+
+
+
+Sprint3 Reflection
+Author: Brittaney Jin
+
+The Sprint 3 burndown chart is more spread out than the last sprint, as our team worked more consistently throughout 
+the sprint rather than doing the vast majority of the work the day before. The team's energy was much better in this 
+sprint than the last.
+
+The team also used Azure DevOps much more efficiently in this sprint, delegating many more tasks overall, and splitting
+up issues into many more specific work items. This improved our productivity compared to the last sprint as we had more
+detailed descriptions of the tasks that were needed complete an issue. 
+
+Additionally, we changed the way that we delegated tasks. Before, we had a lot of redundancy because many people would 
+work on the implementation of classes of a single interface, for example. This wasted time as implementations of different 
+classes in a single interface require a lot of copy and pasting from other classes in the interface and would be much more 
+efficient if done by just one person. Thus, in this sprint, instead of everybody working on 1/5th of everything, we split up
+tasks so that groups of 1 or 2 would work on just one aspect of the game, and even though this meant not everyone had a
+super in-depth understanding of a specific part, redundant work was reduced and we got more done in a shorter time. 
+
+The majority of this sprint's work was creating functionalities for Rooms and Collisions in the game. For the next sprint,
+we will be focusing on sound, room transition animation and graph representation of rooms, and health and inventory for link
+and enemies. 
+
+Additionally, an important note for next sprint is to start using branching functionality of Azure DevOps as some team
+members found it would be useful to work on new code that would be buggy, but also have it not affect the rest of
+the master code. 
+
+
+
+Sprint2 Reflection
+Author: DJ Young
+
+The Sprint2 Burndown chart accurately shows the work schedule of the team. You can see that we did not begin work until five days
+after the sprint began. This lack of urgency came back later to haunt us, as we spent the last few days leading up to the 
+deadline implementing the majority of the functionality. This was not fun for the team and left us exhausted, decreasing our
+productivity. 
+
+Even after we started we failed to read the requirements in full, and failed to use AzureDevOps to delegate tasks between 
+team members or set deadlines for said tasks. Instead we spent a lot of time designing the Link class and making sure 
+that every team member understood the state machine design pattern. In reality we wasted our time as only two people ended 
+up working on the class and only they needed to understand the inner workings of the class. It was only towards the end
+of the sprint that the responsibilities were clearly delegated and that each team member became responsible for individual
+features and functionalities.
+
+For the next sprint we will be using AzureDevOps to transparently delegate the work required from each teammate and set deadlines
+according the recommended deadlines. We will also split the work in such a way that no one person will need to understand the 
+inner workings of every piece of the program.
+

@@ -1,0 +1,12 @@
+﻿Author of the code review: Lisha Nawani
+Date of the code review: 12/7/22
+Sprint number: 5
+Name of the .cs file being reviewed: RandomRoomGenerator.cs
+Author of the .cs file being reviewed: Brittaney Jin
+Specific comments on code quality: 
+	- no magic numbers which is good
+	- make coordinates function is super helpful as it gives you a bunch of valid locations to choose from and the function itself is simple and has high cohesion
+	- could definitely use more comments to explain what each part of the class is doing as some things are not very intuitive or self-explanatory
+A hypothetical change to make to the game related to file being reviewed and how the current implementation could or could not easily support that change:
+	- a hypothetical change to make would be increasing the number of enemies to add to the randomly generated room
+	- this changed would be extremely easy to implement as you would just need to change the value for numOfEnemies by changing the parameters in the call to rand.Next()
