@@ -1,5 +1,5 @@
 # Reflection on Zelda Game Project Experience
-
+Object oriented remake of The Legend of Zelda in C# and .NET + Master Sword Trials
 ## Key Growth Areas
 My experience on the Zelda game project has been positive, with significant development in three key areas:
 
