@@ -1,4 +1,4 @@
-# Reflection on Zelda Game Project Experience
+# Reflection on the Zelda Game Development Experience
 ## Key Growth Areas
 My experience on the Zelda game project has been positive, with significant development in three key areas:
 
@@ -17,7 +17,7 @@ My experience on the Zelda game project has been positive, with significant deve
    - Learning the significance of task delegation and team resilience, especially during intensive periods.
 
 ## Personal Development
-- **Critical Thinking**: Confronting complex challenges, like the collision detection system, enhanced my critical thinking abilities.
+- **Critical Thinking**: Confronting complex system develoment constraints and challenges in the collision detection system enhanced my critical thinking abilities.
 - **Collaboration**: Active collaboration, particularly during whiteboard sessions, was crucial for refining ideas and developing solutions.
 - **Respect and Faith in Team**: My respect and faith in the team's abilities grew with each sprint, inspired by their creative problem-solving methods.
 
@@ -26,9 +26,7 @@ Reflecting on the project, I've identified several best practices in software de
 
 1. **Proactive Project Management**: Defining sprint goals early and documenting them in task tracking software helps in maintaining clarity and reducing delivery risks.
 
-2. **Agile Workflow**: Agile methodologies enable continuous development and frequent stakeholder check-ins, leading to more effective feedback and a higher quality end product. It also provides opportunities for refactoring and reducing technical debt.
+2. **Agile Workflow**: Agile methodologies enable continuous development and frequent stakeholder check-ins and lead to more effective feedback and a higher quality end product.
 
 3. **High Code Quality**: Writing well-organized, maintainable code enhances team efficiency and makes the development process more enjoyable. It also simplifies debugging and allows the team to focus on creative aspects rather than fixing errors.
 
-## Conclusion
-I conclude this project with gratitude for the team experience and a deeper understanding of the importance of trust, resilience in group work, and adherence to best practices in software development. The Zelda game project was not only a journey in coding and design but also in collaboration, problem-solving, and personal growth.
