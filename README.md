@@ -7,26 +7,16 @@ My experience on the Zelda game project has been positive, with significant deve
    - **Sprite Factory**: Streamlined code and eased the addition of new content.
    - **Singleton Pattern**: Provided a global access point for game states and collision handling, essential for managing the public elements of Link's character.
 
-2. **Problem-Solving Process**: Each sprint presented unique challenges, necessitating maintainable solutions. This aspect of the project bolstered my problem-solving skills, particularly in:
+2. **Problem-Solving Process**: Each sprint necessitated maintainable solutions so as not to overwhelm our technical debt. I felt I grew in my ablility to: 
    - Developing sustainable and elegant solutions.
-   - Enhancing critical thinking and object-oriented programming mindset, differing from my prior experiences at OSU.
+   - Think in an object-oriented programming mindset, differing from the sorts of procedural problem sets we completed in the software series of courses.
 
-3. **Resilience and Trust in Teamwork**: The project emphasized the importance of resilience and trust within the team. Key insights include:
-   - Appreciating the capabilities of my CSE classmates.
-   - Benefiting from paired programming and peer reviews.
-   - Learning the significance of task delegation and team resilience, especially during intensive periods.
+3. **Resilience and Trust in Teamwork**: I felt I grew in my ability to trust the team and delegate tasks. I just want to mention that I: 
+   - Appreciate the hard efforts and talents of Lisha, Tuhin, and Brittaney.
+   - Benefitted from the paired programming and peer reviews.
+   - Will be quicker to delegate tasks, especially during intensive periods.
 
 ## Personal Development
-- **Critical Thinking**: Confronting complex system develoment constraints and challenges in the collision detection system enhanced my critical thinking abilities.
+- **Critical Thinking**: Confronting complex constraints and challenges in the collision detection system enhanced pulled a lot out of me and enhanced my critical thinking capabilities.
 - **Collaboration**: Active collaboration, particularly during whiteboard sessions, was crucial for refining ideas and developing solutions.
-- **Respect and Faith in Team**: My respect and faith in the team's abilities grew with each sprint, inspired by their creative problem-solving methods.
-
-## Best Practices in Software Development
-Reflecting on the project, I've identified several best practices in software development:
-
-1. **Proactive Project Management**: Defining sprint goals early and documenting them in task tracking software helps in maintaining clarity and reducing delivery risks.
-
-2. **Agile Workflow**: Agile methodologies enable continuous development and frequent stakeholder check-ins and lead to more effective feedback and a higher quality end product.
-
-3. **High Code Quality**: Writing well-organized, maintainable code enhances team efficiency and makes the development process more enjoyable. It also simplifies debugging and allows the team to focus on creative aspects rather than fixing errors.
-
+- **Respect and Faith in Team**: My respect and faith in the team's abilities grew with each sprint.
